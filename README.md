@@ -18,13 +18,6 @@ pip install -r requirements.txt
 3. Run the script:
 python main.py
 
-## Project Structure
-network-traffic-monitor/ 
-logs/
-reports/ 
-main.py
-README.md
-requirements.txt
 
 ## Dependencies
 - scapy

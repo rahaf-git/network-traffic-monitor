@@ -10,12 +10,11 @@ A Python script to monitor network traffic and detect potential phishing URLs. T
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/yourusername/network-traffic-monitor.git
-
-2. Install dependencies:
+   
+3. Install dependencies:
 pip install -r requirements.txt
 
-3. Run the script:
+4. Run the script:
 python main.py
 
 
